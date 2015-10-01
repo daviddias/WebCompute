@@ -25,11 +25,48 @@ In order to build and optimize a parallel computing platform using Web technolog
 - Shipping the code to the browsers (code signing, loading, etc)
 - And many others
 
-# Current endeavours and outcomes
+# Research and Development
 
- - webrtc-explorer
- - simple-raytracer
- - ..
+## David Dias MSc in Peer-to-Peer Networks by Technical University of Lisbon
+
+[![](https://img.shields.io/badge/INESC-GSD-brightgreen.svg?style=flat-square)](http://www.gsd.inesc-id.pt/) [![](https://img.shields.io/badge/TÉCNICO-LISBOA-blue.svg?style=flat-square)](http://tecnico.ulisboa.pt/) [![](https://img.shields.io/badge/project-browserCloudjs-blue.svg?style=flat-square)](https://github.com/diasdavid/browserCloudjs)
+
+This work was developed by David Dias with supervision by Luís Veiga, all in INESC-ID Lisboa (Distributed Systems Group), Instituto Superior Técnico, Universidade de Lisboa, with the support of Fundação para a Ciência e Tecnologia. 
+
+More info on the team's work at: 
+- http://daviddias.me
+- http://www.gsd.inesc-id.pt/~lveiga
+
+If you use this project, please acknowledge it in your work by referencing the following document:
+
+David Dias and Luís Veiga. browserCloud.js A federated community cloud served by a P2P overlay network on top of the web platform. INESC-ID Tec. Rep. 14/2015, Apr. 2015 (under submission)
+
+- Paper
+  - pdf 
+  - git https://github.com/diasdavid/paper.browserCloud.js
+- Thesis
+  - pdf https://github.com/diasdavid/thesis.browserCloud.js/blob/master/document.pdf 
+  - git https://github.com/diasdavid/thesis.browserCloud.js
+- Project proposal
+  - pdf https://github.com/diasdavid/project.browserCloud.js/blob/master/index.pdf
+  - git https://github.com/diasdavid/project.browserCloud.js
+- Code Repos
+  - https://github.com/diasdavid/webrtc-explorer
+  - https://github.com/diasdavid/webrtc-explorer-signaling-server
+  - https://github.com/diasdavid/webrtc-explorer-browser-process
+  - https://github.com/diasdavid/piri-piri
+  - https://github.com/diasdavid/webrtc-explorer-simulator
+  - https://github.com/diasdavid/webrtc-chord
+  - https://github.com/diasdavid/webrtc-ring
+  - https://github.com/diasdavid/webrtc-explorer-visualizer
+  - https://github.com/diasdavid/raytracer-browser-p2p
+  - https://github.com/diasdavid/webrtc-ring-signaling-server
+  - https://github.com/diasdavid/webrtc-chord-signalling-server
+  - https://github.com/diasdavid/webrtc-chord-uuid
+  - https://github.com/diasdavid/piri-piri.client
+  - https://github.com/diasdavid/simple-raytracer
+  - https://github.com/diasdavid/dht-id
+
 
 # Everyone is welcome to participate :)
 
