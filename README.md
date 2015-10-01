@@ -42,8 +42,8 @@ If you use this project, please acknowledge it in your work by referencing the f
 David Dias and Luís Veiga. browserCloud.js A federated community cloud served by a P2P overlay network on top of the web platform. INESC-ID Tec. Rep. 14/2015, Apr. 2015 (under submission)
 
 - Paper
-  - pdf 
-  - git https://github.com/diasdavid/paper.browserCloud.js
+  - pdf https://github.com/diasdavid/paper.browserCloud.js/blob/master/index.pdf
+  - git https://github.com/diasdavid/webrtc-explorer-t https://github.com/diasdavid/paper.browserCloud.js
 - Thesis
   - pdf https://github.com/diasdavid/thesis.browserCloud.js/blob/master/document.pdf 
   - git https://github.com/diasdavid/thesis.browserCloud.js
@@ -52,7 +52,7 @@ David Dias and Luís Veiga. browserCloud.js A federated community cloud served b
   - git https://github.com/diasdavid/project.browserCloud.js
 - Code Repos
   - https://github.com/diasdavid/webrtc-explorer
-  - https://github.com/diasdavid/webrtc-explorer-signaling-server
+  - https://github.com/diasdavid/webrtc-explorer-signalling-server
   - https://github.com/diasdavid/webrtc-explorer-browser-process
   - https://github.com/diasdavid/piri-piri
   - https://github.com/diasdavid/webrtc-explorer-simulator
