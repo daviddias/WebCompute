@@ -1,15 +1,10 @@
-browserCloudjs
-==============
+![](/graphs/webcomputer-logo.png)
 
-![](/logo/logo-small.png)
+> Research for Parallel Computing on top of the Web Platform
 
-> Parallel Computing Research on top of the Web Platform
+# Intro
 
-# Project Description
-
-browserCloudjs was the title I selected for my MSc thesis in P2P Networks, the main goal was to infer if Web Technologies could offer a parallel runtime for running jobs, leveraging idle resources through volunteer cycle sharing, taking into account bandwidth necessary and still offering speedups when compared to other Single or Parallel Runtimes. Results can be found in the end of the document.
-
-My intent is to continue working on this subject, improving the characteristics of the system and finding new ways to enhance the quality of the results.
+Following up on the the research I've performed for my MSc, [browserCloud.js](https://github.com/diasdavid/thesis.browserCloud.js/blob/master/document.pdf), I've decided to continue working towards the goal of taking advantage of the Browser, the most Ubiquitous platform, to create a parallel runtime to leverage idle resources in user machines. These users would opt to volunteer (a la SETI@HOME, FOLDING@HOME, etc project) or incentivised (a la bitcoin, filecoin, etc).
 
 # Technical challenges
 
@@ -25,49 +20,15 @@ In order to build and optimize a parallel computing platform using Web technolog
 - Shipping the code to the browsers (code signing, loading, etc)
 - And many others
 
-# Research and Development
+# Research and development endeavours
 
-## David Dias MSc in Peer-to-Peer Networks by Technical University of Lisbon
+- [webrtc-explorer](https://github.com/diasdavid/webrtc-explorer)
 
-[![](https://img.shields.io/badge/INESC-GSD-brightgreen.svg?style=flat-square)](http://www.gsd.inesc-id.pt/) [![](https://img.shields.io/badge/TÉCNICO-LISBOA-blue.svg?style=flat-square)](http://tecnico.ulisboa.pt/) [![](https://img.shields.io/badge/project-browserCloudjs-blue.svg?style=flat-square)](https://github.com/diasdavid/browserCloudjs)
+# Articles and updates
 
-This work was developed by David Dias with supervision by Luís Veiga, all in INESC-ID Lisboa (Distributed Systems Group), Instituto Superior Técnico, Universidade de Lisboa, with the support of Fundação para a Ciência e Tecnologia. 
-
-More info on the team's work at: 
-- http://daviddias.me
-- http://www.gsd.inesc-id.pt/~lveiga
-
-If you use this project, please acknowledge it in your work by referencing the following document:
-
-David Dias and Luís Veiga. browserCloud.js A federated community cloud served by a P2P overlay network on top of the web platform. INESC-ID Tec. Rep. 14/2015, Apr. 2015 (under submission)
-
-- Paper
-  - pdf https://github.com/diasdavid/paper.browserCloud.js/blob/master/index.pdf
-  - git https://github.com/diasdavid/webrtc-explorer-t https://github.com/diasdavid/paper.browserCloud.js
-- Thesis
-  - pdf https://github.com/diasdavid/thesis.browserCloud.js/blob/master/document.pdf 
-  - git https://github.com/diasdavid/thesis.browserCloud.js
-- Project proposal
-  - pdf https://github.com/diasdavid/project.browserCloud.js/blob/master/index.pdf
-  - git https://github.com/diasdavid/project.browserCloud.js
-- Code Repos
-  - https://github.com/diasdavid/webrtc-explorer
-  - https://github.com/diasdavid/webrtc-explorer-signalling-server
-  - https://github.com/diasdavid/webrtc-explorer-browser-process
-  - https://github.com/diasdavid/piri-piri
-  - https://github.com/diasdavid/webrtc-explorer-simulator
-  - https://github.com/diasdavid/webrtc-chord
-  - https://github.com/diasdavid/webrtc-ring
-  - https://github.com/diasdavid/webrtc-explorer-visualizer
-  - https://github.com/diasdavid/raytracer-browser-p2p
-  - https://github.com/diasdavid/webrtc-ring-signaling-server
-  - https://github.com/diasdavid/webrtc-chord-signalling-server
-  - https://github.com/diasdavid/webrtc-chord-uuid
-  - https://github.com/diasdavid/piri-piri.client
-  - https://github.com/diasdavid/simple-raytracer
-  - https://github.com/diasdavid/dht-id
-
+- [webrtc-explorer - Resource Discovery for decentralized browser networks](http://blog.daviddias.me/2015/03/22/enter-webrtc-explorer)
+- [Resource discovery through WebRTC - webrtc-ring](http://blog.daviddias.me/2014/12/20/webrtc-ring)
 
 # Everyone is welcome to participate :)
 
-Feel welcome to open issues with questions, ideas, contribute to the list of endeavours, create a project towards the same goal and discuss potential new ways to make it more interesting.
+You are welcome to open issues with questions, ideas, contribute to the list of endeavours, create a project towards the same goal and discuss potential new ways to make it more interesting! :D
